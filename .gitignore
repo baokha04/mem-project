@@ -9,3 +9,9 @@ dist/
 
 # Downloaded Harness CLI binary for installed project instances.
 scripts/bin/harness-cli
+
+# skills
+.agents/
+.agents/*
+/.agents/
+/.agents/*
